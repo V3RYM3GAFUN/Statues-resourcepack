@@ -1,12 +1,6 @@
 {
-    "overrides":
-    [
-        {
-            "predicate":
-            {
-                "custom_model_data":1
-            },
-            "model": "statues/elevator"
-        }
+    "overrides": [
+        { "predicate": { "custom_model_data": 1 }, "model": "statues/elevator" },
+        { "predicate": { "custom_model_data": 2 }, "model": "statues/elevator_new" }
     ]
 }
