@@ -1,7 +1,7 @@
 {
   "pack": {
-    "pack_format": 12,
-    "description": "Required resource pack for the full potential of Statues."
+    "pack_format": 22,
+    "description": "Dev preview"
   }
 }
 
@@ -37,3 +37,5 @@ https://www.planetminecraft.com/texture-pack/30-gun-models/
 Door metal.wav by Max_Raykin -- https://freesound.org/s/572661/ -- License: Attribution 4.0
 Closing Metal Door.wav by Mrthenoronha -- https://freesound.org/s/405418/ -- License: Attribution NonCommercial 4.0
 metal_locker.wav by Peacewaves -- https://freesound.org/s/317334/ -- License: Attribution 4.0
+
+Metal door textures from Macaw's Doors -- https://www.curseforge.com/minecraft/mc-mods/macaws-doors
