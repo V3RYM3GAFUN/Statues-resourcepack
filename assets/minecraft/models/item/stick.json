@@ -6,6 +6,7 @@
     "overrides": [
         { "predicate": { "custom_model_data": 1 }, "model": "statues/elevator" },
         { "predicate": { "custom_model_data": 2 }, "model": "statues/elevator_new" },
-        { "predicate": { "custom_model_data": 9999 }, "model": "statues/java_chan" }
+        { "predicate": { "custom_model_data": 9999 }, "model": "statues/java_chan" },
+        { "predicate": { "custom_model_data": 3 }, "model": "statues/freight_elevator" }
     ]
 }
