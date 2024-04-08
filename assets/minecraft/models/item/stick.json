@@ -1,5 +1,5 @@
 {
-"parent": "minecraft:item/handheld",
+    "parent": "minecraft:item/handheld",
     "textures": {
         "layer0": "minecraft:item/stick"
     },
@@ -7,6 +7,7 @@
         { "predicate": { "custom_model_data": 1 }, "model": "statues/elevator" },
         { "predicate": { "custom_model_data": 2 }, "model": "statues/elevator_new" },
         { "predicate": { "custom_model_data": 3 }, "model": "statues/freight_elevator" },
+        { "predicate": { "custom_model_data": 4 }, "model": "statues/elephant" },
         { "predicate": { "custom_model_data": 9999 }, "model": "statues/java_chan" }     
     ]  
 
