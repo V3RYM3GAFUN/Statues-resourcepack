@@ -1,0 +1,11 @@
+{
+    "parent": "minecraft:item/handheld",
+    "textures": {
+        "layer0": "minecraft:item/bow"
+    },
+    "overrides": [
+        { "predicate": { "custom_model_data": 1 }, "model": "statues/default_pistol" },
+        { "predicate": { "custom_model_data": 2 }, "model": "statues/medic_gun" },
+        { "predicate": { "custom_model_data": 3 }, "model": "statues/trapper_gun" }
+    ]
+}
