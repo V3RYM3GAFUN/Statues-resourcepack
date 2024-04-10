@@ -10,6 +10,7 @@
         { "predicate": { "custom_model_data": 4 }, "model": "statues/elephant" },
         { "predicate": { "custom_model_data": 5 }, "model": "statues/door3x3_open" },
         { "predicate": { "custom_model_data": 6 }, "model": "statues/door3x3_closed" },
+        { "predicate": { "custom_model_data": 7 }, "model": "statues/flashlight" },
         { "predicate": { "custom_model_data": 9999 }, "model": "statues/java_chan" }     
     ]  
 
