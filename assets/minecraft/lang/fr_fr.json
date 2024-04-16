@@ -1,0 +1,18 @@
+{
+    "statues.tutorial.title": "[Didactitiel]",
+    "statues.tutorial.start": "Bievenue dans le didactitiel de %1$s! Ici, vous allez apprendre les mécaniques de bases du jeu.",
+    "statues.tutorial.start.statues": "Statues.",
+    "statues.tutorial.step1.line1": "En explorant, vous-vous trouverez sans doute pourchassé par un monstre. Heureusement, vous n'avez pas besoin de courir jusqu'à semer le monstre! Essayez de vous cacher sous les tables.",
+    "statues.tutorial.step1.line2": "Appuyez sur les %1$s pour vous cacher. Puis sur les %2$s pour sortir!",
+    "statues.tutorial.step1.line2.warped": "planches biscornues",
+    "statues.tutorial.step1.line2.crimson": "planches carmin",
+    "statues.tutorial.step2.line1": "En jouant, vous remarquerez qu'il y a des conduits d'aération autour de vous. En tant que survivant, vous pouvez y rampez pour diverses raisons!",
+    "statues.tutorial.step2.line2": "Appuyez simplement sur la face de dessus du %1$s pour entrer.",
+    "statues.tutorial.step2.line2.lime": "béton vert clair",
+    "statues.tutorial.step3": "Certains objectifs sont représentés par des %1$s. lorsque vous appuyez sur un, ils deviennent des %2$s, montrant que cette objectif a été accompli.",
+    "statues.tutorial.step3.crimson": "boutons carmin",
+    "statues.tutorial.step3.warped": "boutons biscornues",
+    "statues.tutorial.step4": "Enfin, certains portes sont verrouillées, indiqué par du %1$s qui vous dit ce que vous devez faire pour compléter l'objectif. Dans ce cas, utiliser votre clé tuto pour déverrouiller la porte..",
+    "statues.tutorial.step4.red": "text rouge flotant",
+    "statues.tutorial.finish": "Amusez vous!"
+}
