@@ -5,7 +5,9 @@
 			"file": "statues:font/hearts.png",
 			"ascent": 7,
 			"chars": [
-				"\ued00\ued01\ued10\ued11\ued20\ued21\ued70"
+				"\ued00\ued01\ued10\ued70",
+				"\ued01\ued11\ued21\u0000",
+				"\ued02\ued12\ued22"
 			]
 		}
 	]
