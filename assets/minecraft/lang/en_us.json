@@ -15,7 +15,7 @@
     "statues.tutorial.step4": "Last but not least, some doors are locked, indicated by %1$s telling you what to do to unlock the door. In this case, use your tutorial item on the door to unlock it.",
     "statues.tutorial.step4.red": "floating red text",
     "statues.tutorial.finish": "Have fun!",
-	"block.minecraft.cherry_door": "Locker Door",
-	"block.minecraft.crimson_door": "Windowed Metal Door",
-	"block.minecraft.warped_door": "Metal Door"
+    "block.minecraft.cherry_door": "Locker Door",
+    "block.minecraft.crimson_door": "Windowed Metal Door",
+    "block.minecraft.warped_door": "Metal Door"
 }
