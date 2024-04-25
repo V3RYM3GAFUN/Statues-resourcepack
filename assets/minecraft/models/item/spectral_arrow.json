@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [8, 8],
 	"textures": {
-		"6": "item/hob_shotgun_shell_spectral",
-		"particle": "item/hob_shotgun_shell_spectral"
+		"6": "item/guns/hob_shotgun_shell_spectral",
+		"particle": "item/guns/hob_shotgun_shell_spectral"
 	},
 	"elements": [
 		{
