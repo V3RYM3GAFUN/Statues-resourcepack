@@ -1,17 +1,17 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "item/maxim9_handle",
-		"1": "item/maxim9_main",
-		"2": "item/maxim9_main2",
-		"3": "item/maxim9_handle2",
-		"4": "item/maxim9_main3",
-		"5": "item/maxim9_ejection",
-		"6": "item/maxim9_button",
-		"8": "item/maxim9_tops",
-		"9": "item/maxim9_blackhole",
-		"10": "item/maxim9_green_sight",
-		"particle": "item/maxim9_handle"
+		"0": "item/guns/maxim9_handle",
+		"1": "item/guns/maxim9_main",
+		"2": "item/guns/maxim9_main2",
+		"3": "item/guns/maxim9_handle2",
+		"4": "item/guns/maxim9_main3",
+		"5": "item/guns/maxim9_ejection",
+		"6": "item/guns/maxim9_button",
+		"8": "item/guns/maxim9_tops",
+		"9": "item/guns/maxim9_blackhole",
+		"10": "item/guns/maxim9_green_sight",
+		"particle": "item/guns/maxim9_handle"
 	},
 	"elements": [
 		{

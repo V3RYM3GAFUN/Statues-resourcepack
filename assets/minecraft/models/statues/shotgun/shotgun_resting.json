@@ -1,13 +1,13 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "item/hob_mossou_wood",
-		"1": "item/hob_mossou_wooddark",
-		"2": "item/hob_mossou_silver",
-		"3": "item/hob_mossou_barrel",
-		"4": "item/hob_mossou_black",
-		"5": "item/hob_mossou_metal_plate",
-		"particle": "item/hob_mossou_wood"
+		"0": "item/guns/hob_mossou_wood",
+		"1": "item/guns/hob_mossou_wooddark",
+		"2": "item/guns/hob_mossou_silver",
+		"3": "item/guns/hob_mossou_barrel",
+		"4": "item/guns/hob_mossou_black",
+		"5": "item/guns/hob_mossou_metal_plate",
+		"particle": "item/guns/hob_mossou_wood"
 	},
 	"elements": [
 		{

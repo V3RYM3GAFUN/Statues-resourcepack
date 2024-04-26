@@ -1,13 +1,13 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"3": "item/aa12_shoulder",
-		"4": "item/ak47_black_metal_darker_2",
-		"5": "item/ak7_black_metal_darker",
-		"6": "item/ak47_black_metal",
-		"7": "item/ak47_black",
-		"8": "item/m41a1_screw_gray_white",
-		"particle": "item/aa12_drum"
+		"3": "item/guns/aa12_shoulder",
+		"4": "item/guns/ak47_black_metal_darker_2",
+		"5": "item/guns/ak7_black_metal_darker",
+		"6": "item/guns/ak47_black_metal",
+		"7": "item/guns/ak47_black",
+		"8": "item/guns/m41a1_screw_gray_white",
+		"particle": "item/guns/aa12_drum"
 	},
 	"elements": [
 		{
