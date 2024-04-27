@@ -7,7 +7,8 @@
         { "predicate": { "custom_model_data": 1 }, "model": "statues/key_v2" },
         { "predicate": { "custom_model_data": 2 }, "model": "statues/keycard_white" } ,
         { "predicate": { "custom_model_data": 3 }, "model": "statues/keycard_red" } ,
-        { "predicate": { "custom_model_data": 4 }, "model": "statues/keycard_blue" } 
+        { "predicate": { "custom_model_data": 4 }, "model": "statues/keycard_blue" } ,
+        { "predicate": { "custom_model_data": 5 }, "model": "statues/keycard_yellow" } 
     ]  
 
 }
