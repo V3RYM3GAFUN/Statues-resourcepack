@@ -15,6 +15,7 @@
         { "predicate": { "custom_model_data": 9 }, "model": "statues/3x3_door_right" },
         { "predicate": { "custom_model_data": 10 }, "model": "statues/crowbar" },
         { "predicate": { "custom_model_data": 11 }, "model": "statues/stun_baton" },
+        { "predicate": { "custom_model_data": 11 }, "model": "statues/small_elevator" },
         { "predicate": { "custom_model_data": 9999 }, "model": "statues/java_chan" }     
     ]  
 
