@@ -11,14 +11,14 @@
                 "when": "default_pistol",
                 "model": {
                     "type": "model",
-                    "model": "statues/default_pistol"
+                    "model": "statues/weapons/default_pistol"
                 }
             },
             {
                 "when": "shotgun",
                 "model": {
                     "type": "model",
-                    "model": "statues/shotgun/shotgun_resting"
+                    "model": "statues/weapons/shotgun/shotgun_resting"
                 }
             },
             {
@@ -32,14 +32,28 @@
                 "when": "rifle",
                 "model": {
                     "type": "model",
-                    "model": "statues/rifle"
+                    "model": "statues/weapons/rifle"
                 }
             },
             {
                 "when": "insect",
                 "model": {
                     "type": "model",
-                    "model": "statues/insect"
+                    "model": "statues/weapons/insect"
+                }
+            },
+            {
+                "when": "medic_gun",
+                "model": {
+                    "type": "model",
+                    "model": "statues/weapons/medic_gun"
+                }
+            },
+            {
+                "when": "trapper_gun",
+                "model": {
+                    "type": "model",
+                    "model": "statues/weapons/trapper_gun"
                 }
             }
         ]
