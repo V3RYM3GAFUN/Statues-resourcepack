@@ -1,22 +1,86 @@
 {
-    "parent": "minecraft:item/handheld",
-    "textures": {
-        "layer0": "minecraft:item/stick"
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/stick"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 1
+      },
+      "model": "statues/elevator"
     },
-    "overrides": [
-        { "predicate": { "custom_model_data": 1 }, "model": "statues/elevator" },
-        { "predicate": { "custom_model_data": 2 }, "model": "statues/elevator_new" },
-        { "predicate": { "custom_model_data": 3 }, "model": "statues/freight_elevator" },
-        { "predicate": { "custom_model_data": 4 }, "model": "statues/elephant" },
-        { "predicate": { "custom_model_data": 5 }, "model": "statues/door3x3_open" },
-        { "predicate": { "custom_model_data": 6 }, "model": "statues/door3x3_closed" },
-        { "predicate": { "custom_model_data": 7 }, "model": "statues/flashlight" },
-        { "predicate": { "custom_model_data": 8 }, "model": "statues/3x3_door_left" },
-        { "predicate": { "custom_model_data": 9 }, "model": "statues/3x3_door_right" },
-        { "predicate": { "custom_model_data": 10 }, "model": "statues/crowbar" },
-        { "predicate": { "custom_model_data": 11 }, "model": "statues/stun_baton" },
-        { "predicate": { "custom_model_data": 12 }, "model": "statues/small_elevator" },
-        { "predicate": { "custom_model_data": 9999 }, "model": "statues/java_chan" }     
-    ]  
-
+    {
+      "predicate": {
+        "custom_model_data": 2
+      },
+      "model": "statues/elevator_new"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3
+      },
+      "model": "statues/freight_elevator"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 4
+      },
+      "model": "statues/elephant"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 5
+      },
+      "model": "statues/door3x3_open"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 6
+      },
+      "model": "statues/door3x3_closed"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 7
+      },
+      "model": "statues/flashlight"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8
+      },
+      "model": "statues/3x3_door_left"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9
+      },
+      "model": "statues/3x3_door_right"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10
+      },
+      "model": "statues/crowbar"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 11
+      },
+      "model": "statues/stun_baton"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 11
+      },
+      "model": "statues/small_elevator"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9999
+      },
+      "model": "statues/java_chan"
+    }
+  ]
 }
