@@ -1,0 +1,47 @@
+{
+    "model": {
+        "type": "select",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "item/bow"
+        },
+        "cases": [
+            {
+                "when": "dopamine",
+                "model": {
+                    "type": "model",
+                    "model": "statues/abilities/survivor/dopamine"
+                }
+            },
+            {
+                "when": "emp_shock",
+                "model": {
+                    "type": "model",
+                    "model": "statues/abilities/survivor/emp_shock"
+                }
+            },
+            {
+                "when": "x-ray",
+                "model": {
+                    "type": "model",
+                    "model": "statues/abilities/survivor/xray"
+                }
+            },
+            {
+                "when": "rapid_fire_shotgun",
+                "model": {
+                    "type": "model",
+                    "model": "statues/weapons/shotgun/shotgun_resting"
+                }
+            },
+            {
+                "when": "ammo",
+                "model": {
+                    "type": "model",
+                    "model": "item/arrow"
+                }
+            }
+        ]
+    }
+}

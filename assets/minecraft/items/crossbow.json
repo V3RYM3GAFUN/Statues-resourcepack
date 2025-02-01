@@ -1,0 +1,47 @@
+{
+    "model": {
+        "type": "select",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "item/crossbow"
+        },
+        "cases": [
+            {
+                "when": "default_pistol",
+                "model": {
+                    "type": "model",
+                    "model": "statues/default_pistol"
+                }
+            },
+            {
+                "when": "shotgun",
+                "model": {
+                    "type": "model",
+                    "model": "statues/shotgun/shotgun_resting"
+                }
+            },
+            {
+                "when": "sniper",
+                "model": {
+                    "type": "model",
+                    "model": "statues/weapons/sniper/sniper_resting"
+                }
+            },
+            {
+                "when": "rifle",
+                "model": {
+                    "type": "model",
+                    "model": "statues/rifle"
+                }
+            },
+            {
+                "when": "insect",
+                "model": {
+                    "type": "model",
+                    "model": "statues/insect"
+                }
+            }
+        ]
+    }
+}

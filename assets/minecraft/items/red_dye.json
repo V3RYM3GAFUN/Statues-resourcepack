@@ -1,0 +1,19 @@
+{
+    "model": {
+        "type": "select",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "item/bow"
+        },
+        "cases": [
+            {
+                "when": "boxing_glove",
+                "model": {
+                    "type": "model",
+                    "model": "statues/weapons/boxing_glove"
+                }
+            }
+        ]
+    }
+}
