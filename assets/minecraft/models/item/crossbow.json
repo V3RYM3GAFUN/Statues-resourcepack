@@ -134,6 +134,34 @@
         {
             "predicate": { "charged": 1, "custom_model_data": 3 },
             "model": "statues/shotgun/shotgun_loaded"
+        },
+        {
+            "predicate": {
+                "pulling": 0,
+                "custom_model_data": 4
+            },
+            "model": "statues/insect"
+        },
+        {
+            "predicate": {
+                "pulling": 0,
+                "custom_model_data": 5
+            },
+            "model": "statues/medic_gun"
+        },
+        {
+            "predicate": {
+                "pulling": 0,
+                "custom_model_data": 6
+            },
+            "model": "statues/default_pistol"
+        },
+        {
+            "predicate": {
+                "pulling": 0,
+                "custom_model_data": 7
+            },
+            "model": "statues/trapper_gun"
         }
     ]
 }

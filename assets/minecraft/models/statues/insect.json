@@ -1,0 +1,70 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "crossbow",
+	"textures": {
+		"0": "statues:item/insect",
+		"particle": "statues:item/insect"
+	},
+	"elements": [
+		{
+			"name": "insect body",
+			"from": [7, 0, 6],
+			"to": [9, 2, 10],
+			"faces": {
+				"north": {"uv": [2, 6, 4, 8], "texture": "#0"},
+				"east": {"uv": [0, 4, 4, 6], "texture": "#0"},
+				"south": {"uv": [4, 6, 6, 8], "texture": "#0"},
+				"west": {"uv": [4, 4, 8, 6], "texture": "#0"},
+				"up": {"uv": [2, 10, 0, 6], "texture": "#0"},
+				"down": {"uv": [8, 0, 6, 4], "texture": "#0"}
+			}
+		},
+		{
+			"name": "insect wing",
+			"from": [5, 2, 7],
+			"to": [11, 2, 9],
+			"faces": {
+				"north": {"uv": [0, 0, 6, 0], "texture": "#0"},
+				"east": {"uv": [0, 0, 2, 0], "texture": "#0"},
+				"south": {"uv": [0, 0, 6, 0], "texture": "#0"},
+				"west": {"uv": [0, 0, 2, 0], "texture": "#0"},
+				"up": {"uv": [6, 2, 0, 0], "texture": "#0"},
+				"down": {"uv": [6, 2, 0, 4], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [68, 180, 0],
+			"translation": [0, 3.75, 4.25]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [68, 180, 0],
+			"translation": [0, 4.25, 5]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 170, 0],
+			"translation": [1.5, 8.25, -1.5]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 170, 0],
+			"translation": [1.5, 8, -1.75]
+		},
+		"ground": {
+			"translation": [0, 5.25, 0]
+		},
+		"gui": {
+			"rotation": [25, -45, 0],
+			"translation": [0.5, 15.5, 0],
+			"scale": [2.5, 2.5, 2.5]
+		},
+		"head": {
+			"rotation": [0, 180, 0],
+			"translation": [0, 14.25, -3.25]
+		},
+		"fixed": {
+			"rotation": [0, 180, 0],
+			"translation": [0, 7.5, -3.5]
+		}
+	}
+}

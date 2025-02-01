@@ -1,20 +1,20 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "item/bandage1",
-		"1": "item/rsapmetal",
-		"2": "item/rsapblack",
-		"3": "item/rsapmetal2",
-		"4": "item/rsapmetal3",
-		"5": "item/rsapchamber",
-		"6": "item/bandage2",
-		"7": "item/rsapgold",
-		"8": "item/rsaprust",
-		"9": "item/rsapsprings",
-		"10": "item/rustspringsdarker",
-		"11": "item/rsapchamber2",
-		"12": "item/rsaptag",
-		"particle": "item/bandage1"
+		"0": "item/guns/bandage1",
+		"1": "item/guns/rsapmetal",
+		"2": "item/guns/rsapblack",
+		"3": "item/guns/rsapmetal2",
+		"4": "item/guns/rsapmetal3",
+		"5": "item/guns/rsapchamber",
+		"6": "item/guns/bandage2",
+		"7": "item/guns/rsapgold",
+		"8": "item/guns/rsaprust",
+		"9": "item/guns/rsapsprings",
+		"10": "item/guns/rustspringsdarker",
+		"11": "item/guns/rsapchamber2",
+		"12": "item/guns/rsaptag",
+		"particle": "item/guns/bandage1"
 	},
 	"elements": [
 		{
@@ -4091,6 +4091,23 @@
 			"rotation": [12, 0, 0],
 			"translation": [0, 0, -0.5],
 			"scale": [0.6, 0.6, 0.6]
+		},
+		"firstperson_righthand": {
+			"rotation": [-5, -10, -1.2],
+			"translation": [2.6, -3.25, -7.75],
+			"scale": [2, 2, 2]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-5, -10, -1.1],
+			"translation": [2.5, -4.5, -7.75],
+			"scale": [2, 2, 2]
+		},
+		"gui": {
+			"rotation": [132.08, -69.48, 123.4],
+			"translation": [0.5, 0, 0]
+		},
+		"fixed": {
+			"rotation": [0, 90, 0]
 		}
 	},
 	"groups": [

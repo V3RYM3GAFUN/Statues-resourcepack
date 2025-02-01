@@ -1,13 +1,13 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"3": "item/aa12_shoulder",
-		"4": "item/ak47_black_metal_darker_2",
-		"5": "item/ak7_black_metal_darker",
-		"6": "item/ak47_black_metal",
-		"7": "item/ak47_black",
-		"8": "item/m41a1_screw_gray_white",
-		"particle": "item/aa12_drum"
+		"3": "item/guns/aa12_shoulder",
+		"4": "item/guns/ak47_black_metal_darker_2",
+		"5": "item/guns/ak7_black_metal_darker",
+		"6": "item/guns/ak47_black_metal",
+		"7": "item/guns/ak47_black",
+		"8": "item/guns/m41a1_screw_gray_white",
+		"particle": "item/guns/aa12_drum"
 	},
 	"elements": [
 		{
@@ -3843,11 +3843,13 @@
 			"scale": [0.65, 0.65, 0.65]
 		},
 		"firstperson_righthand": {
-			"translation": [0, -2, 0]
+			"rotation": [0, -10.2, 0],
+			"translation": [4.2, -6.75, -16.5],
+			"scale": [2, 2, 2]
 		},
 		"firstperson_lefthand": {
-			"translation": [-9.11, -5.7, 0],
-			"scale": [2, 2, 2]
+			"rotation": [0, -10, 0],
+			"translation": [2, -1, -4.5]
 		},
 		"ground": {
 			"rotation": [25, 0, 10],

@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"1": "item/tipped_arrow_base",
-		"2": "item/tipped_arrow_head",
-		"particle": "item/tipped_arrow_base"
+		"1": "item/guns/tipped_arrow_base",
+		"2": "item/guns/tipped_arrow_head",
+		"particle": "item/guns/tipped_arrow_base"
 	},
 	"elements": [
 		{

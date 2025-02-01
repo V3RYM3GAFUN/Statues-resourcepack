@@ -1,0 +1,18 @@
+{
+    "statues.tutorial.title": "[Tutorial]",
+    "statues.tutorial.start": "Welcome to the %1$s tutorial! Here you will learn the basic mechanics of the game.",
+    "statues.tutorial.start.statues": "Statues.",
+    "statues.tutorial.step1.line1": "While exploring, you might find yourself being chased by a monster. Luckily, you don’t have to run away and hope to lose the monster! Instead, try hiding underneath tables.",
+    "statues.tutorial.step1.line2": "Click on the %1$s to hide. Then click on the %2$s to get out!",
+    "statues.tutorial.step1.line2.warped": "warped planks",
+    "statues.tutorial.step1.line2.crimson": "crimson planks",
+    "statues.tutorial.step2.line1": "While playing, you might notice that there are vents around the map. As a survivor, you can get in them for various reasons!",
+    "statues.tutorial.step2.line2": "Simply click on the top face of the %1$s to enter.",
+    "statues.tutorial.step2.line2.lime": "lime concrete block",
+    "statues.tutorial.step3": "Some of the objectives are represented by %1$s. When you press one, it becomes a %2$s, showing that the objective has been accomplished.",
+    "statues.tutorial.step3.crimson": "crimson button",
+    "statues.tutorial.step3.warped": "warped button",
+    "statues.tutorial.step4": "Last but not least, some doors are locked, indicated by %1$s telling you what to do to unlock the door. In this case, use your tutorial item on the door to unlock it.",
+    "statues.tutorial.step4.red": "floating red text",
+    "statues.tutorial.finish": "Have fun!"
+}
