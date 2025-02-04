@@ -1,4 +1,9 @@
 {
+    "block.minecraft.cherry_door": "Porte De Casier",
+    "block.minecraft.crimson_door": "Porte Métallique Vitré",
+    "block.minecraft.warped_door": "Porte Métallique",
+    "block.minecraft.magenta_stained_glass": "Verre Brisé",
+
     "statues.tutorial.title": "[Didactitiel]",
     "statues.tutorial.start": "Bienvenue dans le didactitiel de %1$s! Ici, vous allez apprendre les mécaniques de bases du jeu.",
     "statues.tutorial.start.statues": "Statues.",
@@ -14,5 +19,15 @@
     "statues.tutorial.step3.warped": "boutons biscornues",
     "statues.tutorial.step4": "Enfin, certaines portes sont verrouillées, indiqué par du %1$s qui vous dit ce que vous devez faire pour compléter l'objectif. Dans ce cas, utiliser votre clé tuto pour déverrouiller la porte..",
     "statues.tutorial.step4.red": "texte rouge flotant",
-    "statues.tutorial.finish": "Amusez vous!"
+    "statues.tutorial.finish": "Amusez vous!",
+    "statues.advancement.facade.allkeys.title": "Chanceux",
+    "statues.advancement.facade.allkeys.description": "Trouver toutes les clés dans Façade.",
+    "statues.advancement.facade.play_once.title": "Façade",
+    "statues.advancement.facade.play_once.description": "Jouer sur Façade pour la première fois.",
+    "statues.advancement.facade.speedrun.title": "Speedrun",
+    "statues.advancement.facade.speedrun.description": "Finir Façade en moins de 5 minutes.",
+    "statues.advancement.facade.win_as_monster.title": "Monstrueux",
+    "statues.advancement.facade.win_as_monster.description": "Gagner sur Façade en tant que Monstre.",
+    "statues.advancement.facade.win_as_survivor.title": "C'est Hautement Confidentiel",
+    "statues.advancement.facade.win_as_survivor.description": "Gagner sur Façade en tant que Survivant."
 }
