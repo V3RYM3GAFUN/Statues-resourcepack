@@ -146,6 +146,7 @@
   "statues.item.shotgun":"Shotgun",
   "statues.item.medic_gun":"Medic's Pistol",
   "statues.item.medic.arrow": "Adrenaline Dart",
+  "statues.item.sniper_ammo": "Sniper Ammo",
 
   "statues.item.crowbar": "Crowbar",
   "statues.item.crowbar.lore": "Used to open barrels.",
