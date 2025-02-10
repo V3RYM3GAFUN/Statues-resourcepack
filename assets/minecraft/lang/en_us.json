@@ -187,7 +187,7 @@
   "statues.text.facade.objective.actionbar.7": "Search underground for keycard",
   "statues.text.facade.objective.actionbar.8": "Unlock high class offices",
   "statues.text.facade.objective.actionbar.9": "Find the confidential book!",
-  "statues.text.facade.objective.actionbar.10": "Escape! (Through the van of sewers)",
+  "statues.text.facade.objective.actionbar.10": "Escape! (Through the van or sewers)",
   "statues.text.facade.objective.actionbar.11": "Survive or escape!",
   "statues.pregame.monster.solo": "%s is the monster!",
   "statues.pregame.monster.group": "%1$s and %2$s are the monsters!",
@@ -216,7 +216,7 @@
 
   "statues.lobby.welcome.title": "Welcome to STATUES.",
   "statues.lobby.welcome.subtitle": "Get to the briefing room to get started!",
-  "statues.lobby.receptionist": "[Receptionist]: Hey there rookie, welcome to Videns Corp. Take a look a look around and make sure you have completed your training (Tutorial) before going into the briefing room. Wouldn't want dead weight on the team!",
+  "statues.lobby.receptionist": "[Receptionist]: Hey there rookie, welcome to Videns Corp. Take a look around and make sure you have completed your training (Tutorial) before going into the briefing room. Wouldn't want dead weight on the team!",
   "statues.lobby.queue.in": "You are queued in!",
   "statues.lobby.queue.in.public": "%s is ready for briefing!",
   "statues.lobby.queue.out": "You are no longer queued in!",
