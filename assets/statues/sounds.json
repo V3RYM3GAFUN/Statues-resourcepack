@@ -1,0 +1,23 @@
+{
+    "music.lobby.moonrise": {
+        "sounds": [
+            {
+                "name": "statues:records/lobby/moonrise"
+            }
+        ]
+    },
+    "music.lobby.foundation": {
+        "sounds": [
+            {
+                "name": "statues:records/lobby/foundation"
+            }
+        ]
+    },
+    "music.lobby.lab": {
+        "sounds": [
+            {
+                "name": "statues:records/lobby/lab"
+            }
+        ]
+    }
+}

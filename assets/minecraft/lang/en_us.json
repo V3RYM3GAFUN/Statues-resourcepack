@@ -36,7 +36,9 @@
   "statues.advancement.tutorial.title": "Keys. Too Many KEYS.",
   "statues.advancement.tutorial.description": "Finish the tutorial.",
 
-  "stratues.tutorial.key": "Tutorial Key",
+  "statues.now_playing": "Now Playing",
+  
+  "statues.tutorial.key": "Tutorial Key",
   "statues.tutorial.title": "[Tutorial]",
   "statues.tutorial.start": "Welcome to the %1$s tutorial! Here you will learn the basic mechanics of the game.",
   "statues.tutorial.start.statues": "Statues.",
