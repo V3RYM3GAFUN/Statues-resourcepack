@@ -7,6 +7,11 @@
     "block.minecraft.dried_kelp_block": "Bloc de Tutoriel",
     "death.attack.elevator": "%1$s s'est fait écrasé(e) par un ascenseur",
 
+    "statues.door.small.open": "Petite porte s'ouvre",
+    "statues.door.small.close": "Petite porte se ferme",
+    "statues.door.large.open": "Grande porte s'ouvre",
+    "statues.door.large.close": "Grande porte se ferme",
+
     "statues.advancement.lockdown.allkeys.title": "Chanceux",
     "statues.advancement.facade.allkeys.title": "Chanceux",
     "statues.advancement.facade.allkeys.description": "Trouvez toutes les clés dans Façade.",

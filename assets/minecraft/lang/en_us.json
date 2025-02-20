@@ -5,7 +5,13 @@
   "block.minecraft.magenta_stained_glass": "Shattered Glass",
   "block.minecraft.magenta_stained_glass_pane": "Shattered Glass Pane",
   "block.minecraft.dried_kelp_block": "Tutorial Frame Block",
+  "statues.block.ammo_crate": "Ammo Crate",
 
+  "statues.door.small.open": "Small door opens",
+  "statues.door.small.close": "Small door closes",
+  "statues.door.large.open": "Large door opens",
+  "statues.door.large.close": "Large door closes",
+    
   "death.attack.elevator":"%1$s was squashed by an elevator",
   "statues.advancement.facade.allkeys.title": "Dream Luck",
   "statues.advancement.facade.allkeys.description": "Find all the keys in Façade.",
