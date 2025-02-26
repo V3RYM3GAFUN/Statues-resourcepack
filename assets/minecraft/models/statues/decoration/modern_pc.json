@@ -1,0 +1,104 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [64, 64],
+	"textures": {
+		"0": "statues:block/modern_pc",
+		"particle": "statues:block/modern_pc"
+	},
+	"elements": [
+		{
+			"name": "base",
+			"from": [5, 0, 11],
+			"to": [11, 1, 15],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7, 0, 12]},
+			"faces": {
+				"north": {"uv": [2, 4.5, 3.5, 4.75], "texture": "#0"},
+				"east": {"uv": [5.5, 4.5, 6.5, 4.75], "texture": "#0"},
+				"south": {"uv": [2, 4.75, 3.5, 5], "texture": "#0"},
+				"west": {"uv": [5.5, 4.75, 6.5, 5], "texture": "#0"},
+				"up": {"uv": [5.5, 4, 4, 3], "texture": "#0"},
+				"down": {"uv": [5.5, 4, 4, 5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "vertical support",
+			"from": [7, 1, 12],
+			"to": [9, 10, 14],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7, 0, 12]},
+			"faces": {
+				"north": {"uv": [0, 4.5, 0.5, 6.75], "texture": "#0"},
+				"east": {"uv": [0.5, 4.5, 1, 6.75], "texture": "#0"},
+				"south": {"uv": [1, 4.5, 1.5, 6.75], "texture": "#0"},
+				"west": {"uv": [1.5, 4.5, 2, 6.75], "texture": "#0"},
+				"up": {"uv": [4, 5, 3.5, 4.5], "texture": "#0"},
+				"down": {"uv": [3.25, 5.75, 2.75, 6.25], "texture": "#0"}
+			}
+		},
+		{
+			"name": "pivot",
+			"from": [7.5, 8.5, 11],
+			"to": [8.5, 9.5, 12],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7.5, 8.5, 10]},
+			"faces": {
+				"north": {"uv": [5.25, 5.75, 5.5, 6], "texture": "#0"},
+				"east": {"uv": [5.75, 5.75, 6, 6], "texture": "#0"},
+				"south": {"uv": [3.25, 6, 3.5, 6.25], "texture": "#0"},
+				"west": {"uv": [3.5, 6, 3.75, 6.25], "texture": "#0"},
+				"up": {"uv": [4, 6.25, 3.75, 6], "texture": "#0"},
+				"down": {"uv": [6.25, 3.75, 6, 4], "texture": "#0"}
+			}
+		},
+		{
+			"name": "screen",
+			"from": [0, 4.5, 10],
+			"to": [16, 13.5, 11],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7, 7.5, 10]},
+			"faces": {
+				"north": {"uv": [0, 0, 4, 2.25], "texture": "#0"},
+				"east": {"uv": [5.5, 5.5, 5.75, 7.75], "texture": "#0"},
+				"south": {"uv": [0, 2.25, 4, 4.5], "texture": "#0"},
+				"west": {"uv": [2, 5.75, 2.25, 8], "texture": "#0"},
+				"up": {"uv": [6, 5.25, 2, 5], "texture": "#0"},
+				"down": {"uv": [6, 5.25, 2, 5.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "keyboard",
+			"from": [1, 0, 1],
+			"to": [15, 1, 7],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0.5, 4]},
+			"faces": {
+				"north": {"uv": [2, 5.5, 5.5, 5.75], "texture": "#0"},
+				"east": {"uv": [5.5, 3.25, 7, 3.5], "texture": "#0"},
+				"south": {"uv": [5.5, 3, 9, 3.25], "texture": "#0"},
+				"west": {"uv": [5.5, 3.5, 7, 3.75], "texture": "#0"},
+				"up": {"uv": [7.5, 1.5, 4, 0], "texture": "#0"},
+				"down": {"uv": [7.5, 1.5, 4, 3], "texture": "#0"}
+			}
+		},
+		{
+			"name": "mouse",
+			"from": [-2.98478, 0, 5.57926],
+			"to": [-0.98478, 1, 8.57926],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-1.98478, 0.5, 7.07926]},
+			"faces": {
+				"north": {"uv": [4.75, 5.75, 5.25, 6], "texture": "#0"},
+				"east": {"uv": [3.25, 5.75, 4, 6], "texture": "#0"},
+				"south": {"uv": [5.75, 5.5, 6.25, 5.75], "texture": "#0"},
+				"west": {"uv": [4, 5.75, 4.75, 6], "texture": "#0"},
+				"up": {"uv": [6, 4.5, 5.5, 3.75], "texture": "#0"},
+				"down": {"uv": [2.75, 5.75, 2.25, 6.5], "texture": "#0"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "monitor",
+			"origin": [7, 0, 12],
+			"color": 0,
+			"children": [0, 1, 2, 3]
+		},
+		4,
+		5
+	]
+}
