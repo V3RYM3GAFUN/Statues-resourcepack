@@ -171,10 +171,12 @@
   "statues.game.facade.objective.keypickup": "%s has found the key",
   "statues.game.facade.objective.mainpower": "Main power restored!",
   
-  "statues.game.facade.objective.armoryunlock": "%s has unlocked the armory!",
+  "statues.game.facade.objective.armory.unlock": "%s has unlocked the armory!",
   "statues.game.facade.objective.gen.unlock": "%s has unlocked the backup generator door!",
   "statues.game.facade.objective.lab.unlock": "%s has unlocked the access to the labs!",
   "statues.game.facade.objective.highclass.unlock": "%s has unlocked the high class offices!",
+  
+  "statues.text.monster.spawn": "Monster Spawn",
   
   "statues.text.facade.objective.mainpower": "Main Power",
   "statues.text.facade.objective.genkey": "Generator Key",
@@ -197,6 +199,7 @@
   "statues.text.facade.objective.actionbar.9": "Find the confidential book!",
   "statues.text.facade.objective.actionbar.10": "Escape! (Through the van or sewers)",
   "statues.text.facade.objective.actionbar.11": "Survive or escape!",
+
   "statues.pregame.monster.solo": "%s is the monster!",
   "statues.pregame.monster.group": "%1$s and %2$s are the monsters!",
   "statues.pregame.start.warning": "Game will start in %1$s seconds!",
