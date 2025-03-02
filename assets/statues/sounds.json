@@ -24,11 +24,13 @@
         "sounds": [
             {
                 "name": "statues:game/doors/small/door_small_open_1",
-                "volume": 0.5
+                "volume": 0.5,
+                "attenuation_distance": 16
             },
             {
                 "name": "statues:game/doors/small/door_small_open_2",
-                "volume": 0.5
+                "volume": 0.5,
+                "attenuation_distance": 16
             }
         ],
         "subtitle": "statues.door.small.open"
@@ -37,11 +39,13 @@
         "sounds": [
             {
                 "name": "statues:game/doors/small/door_small_close_1",
-                "volume": 0.5
+                "volume": 0.5,
+                "attenuation_distance": 16
             },
             {
                 "name": "statues:game/doors/small/door_small_close_2",
-                "volume": 0.5
+                "volume": 0.5,
+                "attenuation_distance": 16
             }
         ],
         "subtitle": "statues.door.small.close"
@@ -50,7 +54,8 @@
         "sounds": [
             {
                 "name": "statues:game/doors/large/door_large_open_1",
-                "volume": 0.5
+                "volume": 0.5,
+                "attenuation_distance": 16
             }
         ],
         "subtitle": "statues.door.large.open"
@@ -59,7 +64,8 @@
         "sounds": [
             {
                 "name": "statues:game/doors/large/door_large_close_1",
-                "volume": 0.5
+                "volume": 0.5,
+                "attenuation_distance": 16
             }
         ],
         "subtitle": "statues.door.large.close"
