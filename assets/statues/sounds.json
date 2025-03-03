@@ -83,8 +83,28 @@
             {
                 "name": "statues:game/flashlight/flashlight_3",
                 "volume": 1
+            },
+            {
+                "name": "statues:game/flashlight/flashlight_4",
+                "volume": 1
+            },
+            {
+                "name": "statues:game/flashlight/flashlight_5",
+                "volume": 1
+            },
+            {
+                "name": "statues:game/flashlight/flashlight_6",
+                "volume": 1
             }
         ],
         "subtitle": "statues.item.flashlight.click"
+    },
+    "game.lockdown.intro": {
+        "sounds": [
+            {
+                "name": "statues:game/maps/lockdown/intro",
+                "stream": true
+            }
+        ]
     }
 }
