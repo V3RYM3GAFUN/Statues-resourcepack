@@ -11,6 +11,7 @@
   "statues.door.small.close": "Small door closes",
   "statues.door.large.open": "Large door opens",
   "statues.door.large.close": "Large door closes",
+  "statues.item.flashlight.click": "Flashlight clicks",
     
   "death.attack.elevator":"%1$s was squashed by an elevator",
   "statues.advancement.facade.allkeys.title": "Dream Luck",

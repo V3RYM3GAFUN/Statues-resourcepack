@@ -69,5 +69,22 @@
             }
         ],
         "subtitle": "statues.door.large.close"
+    },
+    "item.flashlight": {
+        "sounds": [
+            {
+                "name": "statues:game/flashlight/flashlight_1",
+                "volume": 1
+            },
+            {
+                "name": "statues:game/flashlight/flashlight_2",
+                "volume": 1
+            },
+            {
+                "name": "statues:game/flashlight/flashlight_3",
+                "volume": 1
+            }
+        ],
+        "subtitle": "statues.item.flashlight.click"
     }
 }

@@ -81,9 +81,9 @@
     "statues.item.000.ability.lore.line1":"Disparaissez et déplacez-vous librement,",
     "statues.item.000.ability.lore.line2":"mais sans être capable de blesser.",
 
-    "statues.item.001.ability.name": "Grab",
-    "statues.item.001.ability.lore.line1":"Grab the nearest player",
-    "statues.item.001.ability.lore.line2":"within a certain range",
+    "statues.item.001.ability.name": "Empoigner",
+    "statues.item.001.ability.lore.line1":"Agrippe le joueur le plus proche",
+    "statues.item.001.ability.lore.line2":"dans un rayon défini",
 
     "statues.item.002.ability.name": "",
     "statues.item.002.ability.lore.line1":"",
@@ -98,8 +98,8 @@
 
     "statues.item.brawler.outfit": "Tenue du Boxeur",
     "statues.item.brawler.helmet": "Brawler's Helmet",
-    "statues.item.cloaker.outfit": "Tenue de Cloaker",
-    "statues.item.cloaker.helmet": "Cloaker's Helmet",
+    "statues.item.cloaker.outfit": "Tenue du Cloaker",
+    "statues.item.cloaker.helmet": "Casque du Cloaker",
     "statues.item.runner.outfit": "Tenue du Courseur",
     "statues.item.runner.helmet": "Casque du Courseur",
     "statues.item.marksman.outfit": "Tenue du Tireur d'Élite",
@@ -157,8 +157,8 @@
 
   "statues.item.crowbar": "Pied-de-biche",
   "statues.item.crowbar.lore": "Utilisé pour ouvrir les tonneaux.",
-  "statues.item.flashlight": "Lampe de Poche",
-  "statues.item.facade.armorykey": "Carte d'Accès de l'Amurerie",
+  "statues.item.flashlight": "Lampe Torche",
+  "statues.item.facade.armorykey": "Carte d'Accès de l'Armurerie",
   "statues.item.facade.book": "CONFIDENTIEL",
   "statues.item.facade.genkey": "Clé du Générateur de Secours",
   "statues.item.facade.highclasskey": "Carte d'Accès Haute Classe",
@@ -177,12 +177,12 @@
   
   "statues.text.facade.objective.mainpower": "Courant Principal",
   "statues.text.facade.objective.genkey": "Clé du Générateur",
-  "statues.text.facade.objective.genpower": "Courant du Générateur",
+  "statues.text.facade.objective.genpower": "Courant du\nGénérateur",
   "statues.text.facade.objective.labkey": "Carte d'Accès Labos",
   "statues.text.facade.objective.override": "Commandes d'Urgences",
-  "statues.text.facade.objective.highclasskey": "Carte d'Accès Haute Classe",
+  "statues.text.facade.objective.highclasskey": "Carte d'Accès\nHaute Classe",
   "statues.text.facade.objective.book": "Livre CONFIDENTIEL",
-  "statues.text.facade.objective.armorykey": "Carte d'Accès Armurerie",
+  "statues.text.facade.objective.armorykey": "Carte d'Accès\nArmurerie",
   
   "statues.text.facade.objective.actionbar.0": "Trouvez la clé du Générateur dans les bureaux",
   "statues.text.facade.objective.actionbar.1": "Déverrouillez la salle du générateur",
