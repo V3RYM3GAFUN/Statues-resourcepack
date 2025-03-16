@@ -230,8 +230,8 @@
   "statues.text.lockdown.objective.actionbar.8": "%s Insérer les codes dans n'importe quelle salle de sécurité",
   "statues.text.lockdown.objective.actionbar.9": "%s S'ÉCHAPPER!",
 
-  "statues.text.lockdown.objective.mainpower": "Courant Principal",
-  "statues.text.lockdown.objective.fuel": "Bidon D'essence",
+  "statues.text.lockdown.objective.mainpower": "Courant\nPrincipal",
+  "statues.text.lockdown.objective.fuel": "Bidon\nD'essence",
   "statues.text.lockdown.objective.keycard1": "Carte d'accès\nNiveau 1",
   "statues.text.lockdown.objective.override": "Commandes\nd'Urgences",
   "statues.text.lockdown.objective.keycard2": "Carte d'accès\nNiveau 2",
@@ -278,6 +278,13 @@
   "statues.lobby.queue.out.public": "%s a quitté(e) la salle de briefing",
   "statues.lobby.countdown": "Début dans: %1$ss",
   
+  "statues.lobby.vote.success": "Vous avez voté pour: [%s]",
+  "statues.lobby.vote.fail": "Vous avez déjà voté pour [%s]!",
+
   "statues.lobby.spectate.fail": "Il n'y a pas de partie en cours!",
-  "statues.lobby.spectate.success": "%s est maintenant un spectateur!"
+  "statues.lobby.spectate.success": "%s est maintenant un spectateur!",
+
+  "statues.map.facade": "Façade",
+  "statues.map.lockdown": "Lockdown",
+  "statues.map.origins": "Origins"
 }

@@ -278,6 +278,13 @@
   "statues.lobby.queue.out.public": "%s left the briefing room",
   "statues.lobby.countdown": "Starting in: %1$ss",
   
+  "statues.lobby.vote.success": "You have voted for: [%s]",
+  "statues.lobby.vote.fail": "You have already voted for [%s]!",
+
   "statues.lobby.spectate.fail": "There is no game currently running!",
-  "statues.lobby.spectate.success": "%s is now spectating!"
+  "statues.lobby.spectate.success": "%s is now spectating!",
+  
+  "statues.map.facade": "Façade",
+  "statues.map.lockdown": "Lockdown",
+  "statues.map.origins": "Origins"
 }
