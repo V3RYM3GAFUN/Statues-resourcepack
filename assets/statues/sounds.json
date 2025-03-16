@@ -20,6 +20,34 @@
             }
         ]
     },
+    "music.lobby.security_clearance": {
+        "sounds": [
+            {
+                "name": "statues:records/lobby/security_clearance"
+            }
+        ]
+    },
+    "music.lobby.guise": {
+        "sounds": [
+            {
+                "name": "statues:records/lobby/guise"
+            }
+        ]
+    },
+    "music.survivor.radar": {
+        "sounds": [
+            {
+                "name": "statues:records/survivors/radar"
+            }
+        ]
+    },
+    "music.survivor.epsilon11": {
+        "sounds": [
+            {
+                "name": "statues:records/survivors/epsilon11"
+            }
+        ]
+    },
     "game.door.small.open": {
         "sounds": [
             {
