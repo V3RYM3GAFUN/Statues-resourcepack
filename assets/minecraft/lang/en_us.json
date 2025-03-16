@@ -6,14 +6,14 @@
   "block.minecraft.magenta_stained_glass_pane": "Shattered Glass Pane",
   "block.minecraft.dried_kelp_block": "Tutorial Frame Block",
   "statues.block.ammo_crate": "Ammo Crate",
+  "death.attack.elevator":"%1$s was squashed by an elevator",
 
   "statues.door.small.open": "Small door opens",
   "statues.door.small.close": "Small door closes",
   "statues.door.large.open": "Large door opens",
   "statues.door.large.close": "Large door closes",
   "statues.item.flashlight.click": "Flashlight clicks",
-    
-  "death.attack.elevator":"%1$s was squashed by an elevator",
+
   "statues.advancement.facade.allkeys.title": "Dream Luck",
   "statues.advancement.facade.allkeys.description": "Find all the keys in Façade.",
   "statues.advancement.facade.play_once.title": "Façade",
@@ -25,7 +25,7 @@
   "statues.advancement.facade.win_as_survivor.title": "It's Highly Confidential",
   "statues.advancement.facade.win_as_survivor.description": "Win on Façade as Survivor.",
   "statues.advancement.lockdown.allkeys.title": "Dream Luck",
-  "statues.advancement.lockdown.allkeys.description": "Find all the keys in Façade.",
+  "statues.advancement.lockdown.allkeys.description": "Find all the keys in Lockdown.",
   "statues.advancement.lockdown.play_once.title": "Lockdown",
   "statues.advancement.lockdown.play_once.description": "Play on Lockdown for the first time.",
   "statues.advancement.lockdown.speedrun.title": "Speedrun",
@@ -199,7 +199,7 @@
   "statues.text.facade.objective.actionbar.7": "%s Search underground for keycard",
   "statues.text.facade.objective.actionbar.8": "%s Unlock high class offices",
   "statues.text.facade.objective.actionbar.9": "%s Find the confidential book!",
-  "statues.text.facade.objective.actionbar.10": "%sESCAPE! (Through the van or sewers)",
+  "statues.text.facade.objective.actionbar.10": "%s ESCAPE! (Through the van or sewers)",
   "statues.text.facade.objective.actionbar.11": "%s Survive or escape!",
 
   "statues.item.lockdown.keycard1": "Level 1 Keycard",
